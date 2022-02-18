@@ -1,5 +1,3 @@
-from email import header
-from nis import cat
 import requests
 import random
 import pyfiglet
